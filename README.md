@@ -1,7 +1,8 @@
 # Expense Tracker UI
 This is a Budget/Expense Tracking app, user interface only (not responsive yet)
 
-##What the app is about, This app lets a user see:
+## What the app is about
+This app lets a user see:
 - Budget input area
 - Expense input area
 - Summary area (Total Budget, Total Expenses, Remaining Balance)
