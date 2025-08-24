@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  html {
+    font-family: 'Roboto', system-ui, -apple-system, Segoe UI, 'Helvetica Neue', Arial, sans-serif;
+  }
+}
+input {
+  outline: none;
+}
