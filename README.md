@@ -1,12 +1,20 @@
-# React + Vite
+# Expense Tracker UI
+This is a Budget/Expense Tracking app, user interface only (not responsive yet)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##What the app is about
+This app lets a user see:
+- Budget input area
+- Expense input area
+- Summary area (Total Budget, Total Expenses, Remaining Balance)
+- Expense list with edit and delete icons
 
-Currently, two official plugins are available:
+## Core functionalities (UI only)
+- Input fields and buttons are present (not responsive yet)
+- Responsive layout (mobile & desktop)
+- Consistent color theme with icons (lucide icons) and Google Fonts
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies
+- React + Vite
+- TailwindCSS
+- lucide-react (icons)
+- Google Fonts (Roboto)
